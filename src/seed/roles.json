@@ -1,0 +1,115 @@
+[
+  {
+    "_id": "65fbe04df731bd4b9af1df5d",
+    "roleName": "Operator",
+    "description": "Operator Role",
+    "policies": [
+      "660a62073176114eaa3e2f05",
+      "660a62073176114eaa3e2f06",
+      "660a62073176114eaa3e2f07",
+      "660a62073176114eaa3e2f0f",
+      "660a6b4f3176114eaa3e2f19"
+    ],
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3"
+  },
+  {
+    "_id": "65fbe04df731bd4b9af1df5e",
+    "roleName": "Supervisor",
+    "description": "Supervisor Role",
+    "policies": [
+      "660a62073176114eaa3e2f05",
+      "660a62073176114eaa3e2f06",
+      "660a62073176114eaa3e2f07",
+      "660a62073176114eaa3e2f0f",
+      "660a6b4f3176114eaa3e2f19"
+    ],
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3"
+  },
+  {
+    "_id": "65fbe04df731bd4b9af1df5f",
+    "roleName": "Service",
+    "description": "Service Role",
+    "policies": [
+      "660a62073176114eaa3e2f09",
+      "660a62073176114eaa3e2f0b",
+      "660a62073176114eaa3e2f0c",
+      "660a62073176114eaa3e2f0d",
+      "660a62073176114eaa3e2f0a",
+      "660a62073176114eaa3e2f07",
+      "660a62073176114eaa3e2f0f",
+      "660a62073176114eaa3e2f0e",
+      "660a62073176114eaa3e2f06",
+      "660a62073176114eaa3e2f05",
+      "660a62073176114eaa3e2f10",
+      "660a62073176114eaa3e2f11",
+      "660a62073176114eaa3e2f12",
+      "660a6b4f3176114eaa3e2f19",
+      "660a62073176114eaa3e2f20",
+      "660a62073176114eaa3e2d0f",
+      "6841aeb285df42b7c002780c"
+    ],
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "660b85ae0346c06926a80be5"
+  },
+  {
+    "_id": "65fbe04df731bd4b9af1df60",
+    "roleName": "QA",
+    "description": "QA Role",
+    "policies": [
+      "660a62073176114eaa3e2f05",
+      "660a62073176114eaa3e2f06",
+      "660a62073176114eaa3e2f07",
+      "660a62073176114eaa3e2f08",
+      "660a62073176114eaa3e2f09",
+      "660a62073176114eaa3e2f0a",
+      "660a62073176114eaa3e2f0b",
+      "660a62073176114eaa3e2f0c",
+      "660a62073176114eaa3e2f0d",
+      "660a62073176114eaa3e2f0e",
+      "660a62073176114eaa3e2f0f",
+      "660a62073176114eaa3e2f10",
+      "660a62073176114eaa3e2f11",
+      "660a62073176114eaa3e2f12",
+      "660a6b4f3176114eaa3e2f19",
+      "660a62073176114eaa3e2f20",
+      "660a62073176114eaa3e2d0f",
+      "6841aeb285df42b7c002780c"
+    ],
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3"
+  },
+  {
+    "_id": "65fbe04df731bd4b9af1df61",
+    "roleName": "Administrator",
+    "description": "Administrator Role",
+    "policies": [
+      "660a62073176114eaa3e2f05",
+      "660a62073176114eaa3e2f06",
+      "660a62073176114eaa3e2f07",
+      "660a62073176114eaa3e2f08",
+      "660a62073176114eaa3e2f09",
+      "660a62073176114eaa3e2f0a",
+      "660a62073176114eaa3e2f0b",
+      "660a62073176114eaa3e2f0c",
+      "660a62073176114eaa3e2f0d",
+      "660a62073176114eaa3e2f0e",
+      "660a62073176114eaa3e2f0f",
+      "660a62073176114eaa3e2f10",
+      "660a62073176114eaa3e2f11",
+      "660a62073176114eaa3e2f12",
+      "660a6b4f3176114eaa3e2f19",
+      "660a62073176114eaa3e2f20",
+      "660a62073176114eaa3e2d0f",
+      "660a6b4f3176114eaa3e2f20",
+      "6841aeb285df42b7c002780c"
+    ],
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3"
+  }
+]

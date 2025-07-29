@@ -1,0 +1,17 @@
+module.exports.authValidation = require('./auth.validation');
+module.exports.userValidation = require('./user.validation');
+module.exports.jobsValidation = require('./jobs.validation');
+module.exports.configWMSValidation = require('./wms.validation');
+module.exports.configMachineValidation = require('./config_machine.validation');
+module.exports.dashboardValidation = require('./jobs.validation');
+module.exports.cloudAzurePushValidation = require('./cloud_azure_push.validation');
+module.exports.policyValidation = require('./policy.validation');
+module.exports.roleValidation = require('./role.validation');
+module.exports.accessConfigurationConstantValidation = require('./access_configuration_constants.validation');
+module.exports.configMachineLookupValidation = require('./config_machine_lookup.validation');
+module.exports.configMachineGroupValidation = require('./config_machine_group.validation');
+module.exports.configWorkGroupValidation = require('./config_work_group.validation');
+module.exports.userMachineShiftValidation = require('./user_machine_shift.validation');
+module.exports.testConnectionValidation = require('./test_connection.validation');
+module.exports.configUnitConversionValidation = require('./config_unit_conversion.validation');
+module.exports.messageLookupValidation = require('./config_message_lookup.validation');

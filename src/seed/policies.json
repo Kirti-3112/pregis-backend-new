@@ -1,0 +1,154 @@
+[
+  {
+    "_id": "660a62073176114eaa3e2f05",
+    "policyName": "Machine &  Status",
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3",
+    "description": "Machine & Status Screen"
+  },
+  {
+    "_id": "660a62073176114eaa3e2f06",
+    "policyName": "Jobs & Status",
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3",
+    "description": "Job & Status Screen"
+  },
+  {
+    "_id": "660a62073176114eaa3e2f07",
+    "policyName": "Dashboard",
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3",
+    "description": "Dashboard Screen"
+  },
+  {
+    "_id": "660a62073176114eaa3e2f08",
+    "policyName": "Configuration-WMS",
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3",
+    "description": "Configuration-WMS Screen"
+  },
+  {
+    "_id": "660a62073176114eaa3e2f09",
+    "policyName": "Configuration-Machine",
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3",
+    "description": "Configuration-Machine Screen"
+  },
+  {
+    "_id": "660a62073176114eaa3e2f0a",
+    "policyName": "Configuration-Workgroup",
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3",
+    "description": "Configuration- Workgroup Screen"
+  },
+  {
+    "_id": "660a62073176114eaa3e2f0b",
+    "policyName": "Configuration-Machine Group",
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3",
+    "description": "Configuration-Machine Group Screen"
+  },
+  {
+    "_id": "660a62073176114eaa3e2f0c",
+    "policyName": "Configuration-Machine Lookup",
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3",
+    "description": "Configuration-Machine Lookup Screen"
+  },
+  {
+    "_id": "660a62073176114eaa3e2f0d",
+    "policyName": "Configuration-Machine Type",
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3",
+    "description": "Configuration-Machine Type Screen"
+  },
+  {
+    "_id": "6841aeb285df42b7c002780c",
+    "policyName": "Configuration-Message Lookup",
+    "isActive": true,
+    "createdBy": "680eed6a8fc8c3721ca6f7c6",
+    "updatedBy": "680eed6a8fc8c3721ca6f7c6",
+    "description": "Message Lookup"
+  },
+  {
+    "_id": "660a62073176114eaa3e2f0e",
+    "policyName": "History-Graphs",
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3",
+    "description": "History-Graphs Screen"
+  },
+  {
+    "_id": "660a62073176114eaa3e2f0f",
+    "policyName": "History-Logged Events",
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3",
+    "description": "History-Logged events Screen"
+  },
+  {
+    "_id": "660a62073176114eaa3e2d0f",
+    "policyName": "History-Search Reports",
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3",
+    "description": "History-Search reports Screen"
+  },
+  {
+    "_id": "660a62073176114eaa3e2f10",
+    "policyName": "User Management-Policies",
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3",
+    "description": "Policies Screen"
+  },
+  {
+    "_id": "660a62073176114eaa3e2f11",
+    "policyName": "User Management-Roles",
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3",
+    "description": "Roles Screen"
+  },
+  {
+    "_id": "660a62073176114eaa3e2f12",
+    "policyName": "User Management-Users",
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3",
+    "description": "Users Screen"
+  },
+  {
+    "_id": "660a62073176114eaa3e2f20",
+    "policyName": "User Management-Users Shifts",
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3",
+    "description": "User Management-Users Shifts Screen"
+  },
+  {
+    "_id": "660a6b4f3176114eaa3e2f19",
+    "policyName": "Welcome Page",
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3",
+    "description": "Welcome Page Screen"
+  },
+  {
+    "_id": "660a6b4f3176114eaa3e2f20",
+    "policyName": "Configuration-Unit Conversion",
+    "isActive": true,
+    "createdBy": "6594ee7c58ec983208c4f8d3",
+    "updatedBy": "6594ee7c58ec983208c4f8d3",
+    "description": "Configuration-Unit Conversion"
+  }
+]

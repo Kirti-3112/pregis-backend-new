@@ -1,0 +1,456 @@
+components:
+  schemas:
+    User:
+      type: object
+      properties:
+        id:
+          type: string
+        email:
+          type: string
+          format: email
+        name:
+          type: string
+        role:
+          type: string
+          enum: [user, admin]
+      example:
+        id: 5ebac534954b54139806c112
+        email: fake@example.com
+        name: fake name
+        role: user
+    
+    ConfigMachine:
+      type: object
+      properties:
+        machine_name: 
+              type: String
+        machine_type: 
+              type: String
+        job_import_topic: 
+              type: String
+        machine_import_topic: 
+              type: String
+        output_topic: 
+              type: String
+      example:
+          machine_name: TestMachine006
+          machine_type: HostName006
+          job_import_topic: HostName006
+          machine_import_topic: HostName006
+          output_topic: HostName006,
+          email: HostName006
+
+    WMSMachine:
+      type: object
+      properties:
+          user_id: 
+            type: String
+          job_import: 
+            type: String
+          job_export: 
+            type: String
+      example:      
+          created_by: test@example.com
+          id: 6596594ebd714d946df65002
+          job_export: sample_exp
+          job_import: sample_imp
+          updated_by: test@example.com
+          user_id: 6594ee7c58ec983208c4f8d3
+
+
+
+    Token:
+      type: object
+      properties:
+        token:
+          type: string
+        expires:
+          type: string
+          format: date-time
+      example:
+        token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1ZWJhYzUzNDk1NGI1NDEzOTgwNmMxMTIiLCJpYXQiOjE1ODkyOTg0ODQsImV4cCI6MTU4OTMwMDI4NH0.m1U63blB0MLej_WfB7yC2FTMnCziif9X8yzwDEfJXAg
+        expires: 2020-05-12T16:18:04.793Z
+
+    AuthTokens:
+      type: object
+      properties:
+        access:
+          $ref: "#/components/schemas/Token"
+
+    Error:
+      type: object
+      properties:
+        code:
+          type: number
+        message:
+          type: string
+
+    Created:
+      type: object
+      properties:
+        code:
+          type: number
+        message:
+          type: string
+    
+    Register:
+      type: object
+      properties:
+        code:
+          type: number
+        message:
+          type: string
+
+  responses:
+    DuplicateEmail:
+      description: Email already taken
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/Error"
+          example:
+            code: 400
+            message: Email already taken
+    Unauthorized:
+      description: Unauthorized
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/Error"
+          example:
+            code: 401
+            message: Please authenticate
+    Forbidden:
+      description: Forbidden
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/Error"
+          example:
+            code: 403
+            message: Forbidden
+    NotFound:
+      description: Not found
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/Error"
+          example:
+            code: 404
+            message: Not found
+    
+    JobsStatus:
+      type: array
+      properties:
+        label:
+          type: string
+        value:
+          type: number
+      example:
+        - Machine_id: null
+          Job_id: null
+          Barcode: LPN12
+          Command: create
+          ImportedTime: '0001-01-01T00:00:00.000Z'
+          CreatedTime: '0001-01-01T00:00:00.000Z'
+          CompletedTime: '0001-01-01T00:00:00.000Z'
+          TimeZoneOffset: null
+          Recipe_ID: null
+          Type: box
+          UnitofMeasure: M
+          BoxLength: 350
+          BoxWidth: 250
+          BoxHeight: 375
+          BoxWeight: 3.6
+          BoxLength_Measured: 0
+          BoxWidth_Measured: 0
+          BoxHeight_Measured: 0
+          CutDownLength: 0
+          ProductHeightInBox: 0
+          CutDownNeeded: false
+          BoxHeightAfterCutDown: false
+          Reported: false
+          MachineSpeed: 0
+          ProductionStatus: To-Do
+          Duration: null
+          VolumeReductionPercent: null
+          PushedToCloud: null
+          OperatorID: null
+          AdditionalData1: printdata
+          AdditionalData2: shipping category
+          AdditionalData3: ship notes
+          AdditionalData4: additional print
+          AdditionalData5: additional print
+          CreatedAt: '2024-01-04T06:50:01.976Z'
+          id: 659655190f345eca0109996c
+
+    Dashboard:
+      type: array
+      properties:
+        label:
+          type: string
+        value:
+          type: number
+      example:
+        - uptime: '14:50:47'
+          percentageVolumeReduction: '57.40'
+          throughputRunningAverage: '276.92'
+          jobCount:
+            - _id: Completed
+              count: 0
+
+    AzurePush:
+      type: array
+      properties:
+        label:
+          type: string
+        value:
+          type: number
+      example:
+        [
+          {
+                "Machine_id": null,
+                "Job_id": null,
+                "Barcode": "LPN12",
+                "Command": "create",
+                "ImportedTime": "0001-01-01T00:00:00.000Z",
+                "CreatedTime": "0001-01-01T00:00:00.000Z",
+                "CompletedTime": "0001-01-01T00:00:00.000Z",
+                "TimeZoneOffset": null,
+                "Recipe_ID": null,
+                "Type": "box",
+                "UnitofMeasure": "M",
+                "BoxLength": 350,
+                "BoxWidth": 250,
+                "BoxHeight": 375,
+                "BoxWeight": 3.6,
+                "BoxLength_Measured": 0,
+                "BoxWidth_Measured": 0,
+                "BoxHeight_Measured": 0,
+                "CutDownLength": 0,
+                "ProductHeightInBox": 0,
+                "CutDownNeeded": false,
+                "BoxHeightAfterCutDown": false,
+                "Reported": false,
+                "MachineSpeed": 0,
+                "ProductionStatus": "To-Do",
+                "Duration": null,
+                "VolumeReductionPercent": null,
+                "PushedToCloud": null,
+                "OperatorID": null,
+                "AdditionalData1": "printdata",
+                "AdditionalData2": "shipping category",
+                "AdditionalData3": "ship notes",
+                "AdditionalData4": "additional print",
+                "AdditionalData5": "additional print",
+                "CreatedAt": "2024-01-04T06:50:01.976Z",
+                "id": "659655190f345eca0109996c"
+            }
+        ]
+
+    GetAllConfig:
+      type: array
+      properties:
+        label:
+          type: string
+        value:
+          type: number
+      example:
+        [
+          {
+              "machine_name": "sample",
+              "machine_type": "sample",
+              "job_import_topic": "sample",
+              "machine_import_topic": "sample",
+              "output_topic": "sample",
+              "created_by": "test@example.com",
+              "id": "6594fe3458ec983208c50186"
+          }
+        ]  
+    
+    GetAllWMSConfig:
+      type: array
+      properties:
+        label:
+          type: string
+        value:
+          type: number
+      example:
+        [
+          {
+              created_by: test@example.com,
+              id: 6596594ebd714d946df65002,
+              job_export: sample_exp,
+              job_import: sample_imp,
+              updated_by: aditya@test.com,
+              user_id: 6594ee7c58ec983208c4f8d3
+          }
+        ]        
+    #History
+    GetArea:
+      type: array
+      properties:
+        label:
+          type: string
+        value:
+          type: number
+      example:
+        [        
+          "Bending",
+          "Conveyor",
+          "Cutter1",
+          "Cutter2",
+          "GeneralAlarms1",
+          "GeneralAlarms2",
+          "GeneralAlarms3",
+          "Motor",
+          "Scanner",
+          "Taper",
+          "Valves"
+      ] 
+    GetJobCount:
+      type: array
+      properties:
+      example:
+        [        
+          {
+            "status": "success",
+            "message": "success",
+            "data": {
+                "name": "Job Completed By Hour",
+                "count": [
+                    1,
+                    2,
+                    1
+                ],
+                "date": [
+                    "06:00",
+                    "07:00",
+                    "09:00"
+                ]
+            }
+        }
+      ]
+    GetAverageVolumeReduction:
+      type: array
+      properties:
+      example:
+        [        
+          {
+              "status": "success",
+              "message": "success",
+              "data": {
+                  "name": "Average Volume Reduction by Day",
+                  "dates": [
+                      "2024-01-05"
+                  ],
+                  "percentages": [
+                      43.25
+                  ]
+              }
+          }
+      ]
+
+    GetProductionByDay:
+      type: array
+      properties:
+      example:
+        [        
+        {
+            "status": "success",
+            "message": "success",
+            "data": {
+                "name": "Production by Day",
+                "dates": [
+                    "2024-01-05"
+                ],
+                "eventCount": [
+                    4
+                ]
+            }
+        }
+      ]
+    GetCountMachineEvent:
+      type: array
+      properties:
+      example:
+        [        
+            {
+            "status": "success",
+            "message": "success",
+            "data": {
+                "name": "Count of machine Events",
+                "eventCount": [
+                    1
+                ],
+                "errorCode": [
+                    0
+                ],
+                "message": [
+                    "No Alarm"
+                ]
+            }
+        }
+      ]
+    GetLoggedEvent:
+      type: array
+      properties:
+      example:
+        [        
+          {
+              "loggedEvents": [
+                  {
+                      "eventCount": 15010,
+                      "errorCode": "0000000000000000000000000000000000000000000000000000000000000000",
+                      "area": "GeneralAlarms1",
+                      "eventTime": "2024-01-05T09:56:21.645Z",
+                      "status": "Ready",
+                      "message": "No alarm !",
+                      "id": "6597d2435f805517defccefc"
+                  }
+              ],
+              "rowsPerPage": 12,
+              "totalPages": 1,
+              "currentPage": 1
+          }
+      ]
+
+    GetMachineEvent:
+      type: array
+      properties:
+      example:
+        [        
+            {
+                "machineData": {
+                    "machine_id": "AURORA1",
+                    "eventCount": 15010,
+                    "errorCode": "0000000000000000000000000000000000000000000000000000000000000000",
+                    "area": "GeneralAlarms1",
+                    "eventTime": "2024-01-05T09:56:21.645Z",
+                    "status": "Ready",
+                    "message": "No Alarm !",
+                    "id": "6597d2435f805517defccefc"
+                },
+                "machineTimeData": {
+                    "downTime": "0:56:38"
+                }
+            }
+      ]
+
+    GetMachineUptime:
+      type: array
+      properties:
+      example:
+        [        
+          {
+            "machineDetails": {
+              "downTime": "1:23:2"
+            }
+          }
+        ]
+    securitySchemes:
+      bearerAuth:
+        type: http
+        scheme: bearer
+        bearerFormat: JWT
+

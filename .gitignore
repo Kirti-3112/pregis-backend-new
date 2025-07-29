@@ -1,0 +1,19 @@
+# Dependencies
+node_modules
+
+# Environment varibales
+.env*
+!.env*.example
+
+# Code coverage
+coverage
+
+# Sonar 
+.scannerwork
+
+# mongo Data 
+data
+
+#bundle
+bundle.js
+bundle.js.LICENSE.txt

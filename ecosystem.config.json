@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "name": "pregis-api",
+      "script": "src/index.js",
+      "instances": 4,
+      "autorestart": true,
+      "watch": false,
+      "time": true,
+      "max_memory_restart": "200M",
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  ]
+}

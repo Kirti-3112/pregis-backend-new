@@ -1,0 +1,27 @@
+version: '3'
+
+services:
+  node-app:
+    build: .
+    image: pregis-api-image
+    container_name: pregis-api
+    environment:
+      - MONGODB_URL=mongodb://user:password@mongodb:27017/pregis?authSource=admin
+      - NODE_ENV=development
+      - CHOKIDAR_USEPOLLING="true"
+    env_file:
+      - .env.example
+    ports:
+      - '3001:3001'
+    restart: on-failure
+
+    volumes:
+      - .:/usr/src/node-app
+      - /usr/src/node-app/node_modules
+    networks:
+      - pregis_network
+    command: npm run dev
+
+networks:
+  pregis_network:
+    external: true

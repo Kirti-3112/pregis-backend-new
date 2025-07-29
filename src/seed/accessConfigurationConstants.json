@@ -1,0 +1,327 @@
+[
+  {
+    "name": "Dashboard",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "Machine &  Status",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "Jobs & Status",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "Configuration-WMS",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "Configuration-Machine",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "Configuration-Message Lookup",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "Users Screen",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "Modify User",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "History-Logged Events",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "History-Graphs",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "History-Search Reports",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "Configuration-Workgroup",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "Configuration-Machine Group",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "Configuration-Machine Lookup",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "Configuration-Machine Type",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "Configuration-Unit Conversion",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "User Management-Policies",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "User Management-Roles",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "User Management-Users",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "Welcome Page",
+    "category": "policy",
+    "isActive": true
+  },
+  {
+    "name": "Operator",
+    "category": "role",
+    "isActive": true
+  },
+  {
+    "name": "Supervisor",
+    "category": "role",
+    "isActive": true
+  },
+  {
+    "name": "Service",
+    "category": "role",
+    "isActive": true
+  },
+  {
+    "name": "Administrator",
+    "category": "role",
+    "isActive": true
+  },
+  {
+    "name": "QA",
+    "category": "role",
+    "isActive": true
+  },
+  {
+    "name": "Size Master",
+    "category": "machineType",
+    "isActive": true
+  },
+  {
+    "name": "Sense And Dispense Paper",
+    "category": "machineType",
+    "isActive": true
+  },
+  {
+    "name": "Sense And Dispense Air",
+    "category": "machineType",
+    "isActive": true
+  },
+  {
+    "name": "Bending",
+    "category": "Size Master",
+    "isActive": true
+  },
+  {
+    "name": "Conveyor",
+    "category": "Size Master",
+    "isActive": true
+  },
+  {
+    "name": "Cutter1",
+    "category": "Size Master",
+    "isActive": true
+  },
+  {
+    "name": "Cutter2",
+    "category": "Size Master",
+    "isActive": true
+  },
+  {
+    "name": "GeneralAlarms1",
+    "category": "Size Master",
+    "isActive": true
+  },
+  {
+    "name": "GeneralAlarms2",
+    "category": "Size Master",
+    "isActive": true
+  },
+  {
+    "name": "GeneralAlarms3",
+    "category": "Size Master",
+    "isActive": true
+  },
+  {
+    "name": "Motor",
+    "category": "Size Master",
+    "isActive": true
+  },
+  {
+    "name": "Scanner",
+    "category": "Size Master",
+    "isActive": true
+  },
+  {
+    "name": "Taper",
+    "category": "Size Master",
+    "isActive": true
+  },
+  {
+    "name": "Valves",
+    "category": "Size Master",
+    "isActive": true
+  },
+  {
+    "name": "Conveyor",
+    "category": "Sense And Dispense Paper",
+    "isActive": true
+  },
+  {
+    "name": "Crowder",
+    "category": "Sense And Dispense Paper",
+    "isActive": true
+  },
+  {
+    "name": "GeneralAlarms",
+    "category": "Sense And Dispense Paper",
+    "isActive": true
+  },
+  {
+    "name": "Dispenser",
+    "category": "Sense And Dispense Paper",
+    "isActive": true
+  },
+  {
+    "name": "MeasurementSensor",
+    "category": "Sense And Dispense Paper",
+    "isActive": true
+  },
+  {
+    "name": "StateChange",
+    "category": "Sense And Dispense Paper",
+    "isActive": true
+  },
+  {
+    "name": "BarcodeReader",
+    "category": "Sense And Dispense Paper",
+    "isActive": true
+  },
+  {
+    "name": "Conveyor",
+    "category": "Sense And Dispense Air",
+    "isActive": true
+  },
+  {
+    "name": "Crowder",
+    "category": "Sense And Dispense Air",
+    "isActive": true
+  },
+  {
+    "name": "GeneralAlarms",
+    "category": "Sense And Dispense Air",
+    "isActive": true
+  },
+  {
+    "name": "Dispenser",
+    "category": "Sense And Dispense Air",
+    "isActive": true
+  },
+  {
+    "name": "MeasurementSensor",
+    "category": "Sense And Dispense Air",
+    "isActive": true
+  },
+  {
+    "name": "StateChange",
+    "category": "Sense And Dispense Air",
+    "isActive": true
+  },
+  {
+    "name": "BarcodeReader",
+    "category": "Sense And Dispense Air",
+    "isActive": true
+  },
+  {
+    "name": "cubic_centimeter",
+    "category": "volume",
+    "isActive": true
+  },
+  {
+    "name": "cubic_inch",
+    "category": "volume",
+    "isActive": true
+  },
+  {
+    "name": "cubic_feet",
+    "category": "volume",
+    "isActive": true
+  },
+  {
+    "name": "cubic_meter",
+    "category": "volume",
+    "isActive": true
+  },
+  {
+    "name": "centimeter",
+    "category": "dimension",
+    "isActive": true
+  },
+  {
+    "name": "millimeter",
+    "category": "dimension",
+    "isActive": true
+  },
+  {
+    "name": "inch",
+    "category": "dimension",
+    "isActive": true
+  },
+  {
+    "name": "foot",
+    "category": "dimension",
+    "isActive": true
+  },
+  {
+    "name": "pound",
+    "category": "weight",
+    "isActive": true
+  },
+  {
+    "name": "gram",
+    "category": "weight",
+    "isActive": true
+  },
+  {
+    "name": "kilogram",
+    "category": "weight",
+    "isActive": true
+  },
+  {
+    "name": "native_UOM",
+    "category": "[{\"Volume\": \"cubiccentimeter\",\"Dimension\": \"millimeter\",\"Weight\": \"kilogram\"}]",
+    "isActive": true
+  }
+]

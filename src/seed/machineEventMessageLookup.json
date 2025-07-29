@@ -1,0 +1,3410 @@
+[
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, alarm1: Sync to flight conveyor error, check parameters",
+    "AreaNumber": "Area5",
+    "MessageNumber": 1,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000001"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, alarm2",
+    "AreaNumber": "Area5",
+    "MessageNumber": 2,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000010"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, alarm3",
+    "AreaNumber": "Area5",
+    "MessageNumber": 3,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000100"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, alarm4",
+    "AreaNumber": "Area5",
+    "MessageNumber": 4,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000001000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, alarm5",
+    "AreaNumber": "Area5",
+    "MessageNumber": 5,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000010000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, alarm6",
+    "AreaNumber": "Area5",
+    "MessageNumber": 6,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000100000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, alarm7",
+    "AreaNumber": "Area5",
+    "MessageNumber": 7,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000001000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, alarm8",
+    "AreaNumber": "Area5",
+    "MessageNumber": 8,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000010000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, alarm9",
+    "AreaNumber": "Area5",
+    "MessageNumber": 9,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000100000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, alarm10",
+    "AreaNumber": "Area5",
+    "MessageNumber": 10,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000001000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, warning1",
+    "AreaNumber": "Area5",
+    "MessageNumber": 11,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000010000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, warning2",
+    "AreaNumber": "Area5",
+    "MessageNumber": 12,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000100000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, warning3",
+    "AreaNumber": "Area5",
+    "MessageNumber": 13,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000001000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, warning4",
+    "AreaNumber": "Area5",
+    "MessageNumber": 14,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000010000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, warning5",
+    "AreaNumber": "Area5",
+    "MessageNumber": 15,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000100000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, warning6",
+    "AreaNumber": "Area5",
+    "MessageNumber": 16,
+    "MessageBitString": "0000000000000000000000000000000000000000000000001000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, warning7",
+    "AreaNumber": "Area5",
+    "MessageNumber": 17,
+    "MessageBitString": "0000000000000000000000000000000000000000000000010000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, warning8",
+    "AreaNumber": "Area5",
+    "MessageNumber": 18,
+    "MessageBitString": "0000000000000000000000000000000000000000000000100000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, warning9",
+    "AreaNumber": "Area5",
+    "MessageNumber": 19,
+    "MessageBitString": "0000000000000000000000000000000000000000000001000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, warning10",
+    "AreaNumber": "Area5",
+    "MessageNumber": 20,
+    "MessageBitString": "0000000000000000000000000000000000000000000010000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, message1: Sync to flight conveyor error, check parameters",
+    "AreaNumber": "Area5",
+    "MessageNumber": 21,
+    "MessageBitString": "0000000000000000000000000000000000000000000100000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, message2",
+    "AreaNumber": "Area5",
+    "MessageNumber": 22,
+    "MessageBitString": "0000000000000000000000000000000000000000001000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, message3",
+    "AreaNumber": "Area5",
+    "MessageNumber": 23,
+    "MessageBitString": "0000000000000000000000000000000000000000010000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, message4",
+    "AreaNumber": "Area5",
+    "MessageNumber": 24,
+    "MessageBitString": "0000000000000000000000000000000000000000100000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, message5",
+    "AreaNumber": "Area5",
+    "MessageNumber": 25,
+    "MessageBitString": "0000000000000000000000000000000000000001000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, message6",
+    "AreaNumber": "Area5",
+    "MessageNumber": 26,
+    "MessageBitString": "0000000000000000000000000000000000000010000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, message7",
+    "AreaNumber": "Area5",
+    "MessageNumber": 27,
+    "MessageBitString": "0000000000000000000000000000000000000100000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, message8",
+    "AreaNumber": "Area5",
+    "MessageNumber": 28,
+    "MessageBitString": "0000000000000000000000000000000000001000000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, message9",
+    "AreaNumber": "Area5",
+    "MessageNumber": 29,
+    "MessageBitString": "0000000000000000000000000000000000010000000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea5",
+    "Area": "Bending",
+    "Message": "Area5, message10",
+    "AreaNumber": "Area5",
+    "MessageNumber": 30,
+    "MessageBitString": "0000000000000000000000000000000000100000000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, alarm1: Sync to flight conveyor error, check parameters",
+    "AreaNumber": "Area2",
+    "MessageNumber": 1,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000001"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, alarm10",
+    "AreaNumber": "Area2",
+    "MessageNumber": 10,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000001000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, alarm2",
+    "AreaNumber": "Area2",
+    "MessageNumber": 2,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000010"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, alarm3",
+    "AreaNumber": "Area2",
+    "MessageNumber": 3,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000100"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, alarm4",
+    "AreaNumber": "Area2",
+    "MessageNumber": 4,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000001000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, alarm5",
+    "AreaNumber": "Area2",
+    "MessageNumber": 5,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000010000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, alarm6",
+    "AreaNumber": "Area2",
+    "MessageNumber": 6,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000100000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, alarm7",
+    "AreaNumber": "Area2",
+    "MessageNumber": 7,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000001000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, alarm8",
+    "AreaNumber": "Area2",
+    "MessageNumber": 8,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000010000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, alarm9",
+    "AreaNumber": "Area2",
+    "MessageNumber": 9,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000100000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, message1: Sync to flight conveyor error, check parameters",
+    "AreaNumber": "Area2",
+    "MessageNumber": 21,
+    "MessageBitString": "0000000000000000000000000000000000000000000100000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, message10",
+    "AreaNumber": "Area2",
+    "MessageNumber": 30,
+    "MessageBitString": "0000000000000000000000000000000000100000000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, message2",
+    "AreaNumber": "Area2",
+    "MessageNumber": 22,
+    "MessageBitString": "0000000000000000000000000000000000000000001000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, message3",
+    "AreaNumber": "Area2",
+    "MessageNumber": 23,
+    "MessageBitString": "0000000000000000000000000000000000000000010000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, message4",
+    "AreaNumber": "Area2",
+    "MessageNumber": 24,
+    "MessageBitString": "0000000000000000000000000000000000000000100000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, message5",
+    "AreaNumber": "Area2",
+    "MessageNumber": 25,
+    "MessageBitString": "0000000000000000000000000000000000000001000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, message6",
+    "AreaNumber": "Area2",
+    "MessageNumber": 26,
+    "MessageBitString": "0000000000000000000000000000000000000010000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, message7",
+    "AreaNumber": "Area2",
+    "MessageNumber": 27,
+    "MessageBitString": "0000000000000000000000000000000000000100000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, message8",
+    "AreaNumber": "Area2",
+    "MessageNumber": 28,
+    "MessageBitString": "0000000000000000000000000000000000001000000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, message9",
+    "AreaNumber": "Area2",
+    "MessageNumber": 29,
+    "MessageBitString": "0000000000000000000000000000000000010000000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, warning1",
+    "AreaNumber": "Area2",
+    "MessageNumber": 11,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000010000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, warning10",
+    "AreaNumber": "Area2",
+    "MessageNumber": 20,
+    "MessageBitString": "0000000000000000000000000000000000000000000010000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, warning2",
+    "AreaNumber": "Area2",
+    "MessageNumber": 12,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000100000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, warning3",
+    "AreaNumber": "Area2",
+    "MessageNumber": 13,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000001000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, warning4",
+    "AreaNumber": "Area2",
+    "MessageNumber": 14,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000010000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, warning5",
+    "AreaNumber": "Area2",
+    "MessageNumber": 15,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000100000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, warning6",
+    "AreaNumber": "Area2",
+    "MessageNumber": 16,
+    "MessageBitString": "0000000000000000000000000000000000000000000000001000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, warning7",
+    "AreaNumber": "Area2",
+    "MessageNumber": 17,
+    "MessageBitString": "0000000000000000000000000000000000000000000000010000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, warning8",
+    "AreaNumber": "Area2",
+    "MessageNumber": 18,
+    "MessageBitString": "0000000000000000000000000000000000000000000000100000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea2",
+    "Area": "Conveyor",
+    "Message": "Area2, warning9",
+    "AreaNumber": "Area2",
+    "MessageNumber": 19,
+    "MessageBitString": "0000000000000000000000000000000000000000000001000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, alarm1: Sync to flight conveyor error, check parameters",
+    "AreaNumber": "Area3",
+    "MessageNumber": 1,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000001"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, alarm2",
+    "AreaNumber": "Area3",
+    "MessageNumber": 2,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000010"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, alarm3",
+    "AreaNumber": "Area3",
+    "MessageNumber": 3,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000100"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, alarm4",
+    "AreaNumber": "Area3",
+    "MessageNumber": 4,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000001000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, alarm5",
+    "AreaNumber": "Area3",
+    "MessageNumber": 5,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000010000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, alarm6",
+    "AreaNumber": "Area3",
+    "MessageNumber": 6,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000100000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, alarm7",
+    "AreaNumber": "Area3",
+    "MessageNumber": 7,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000001000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, alarm8",
+    "AreaNumber": "Area3",
+    "MessageNumber": 8,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000010000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, alarm9",
+    "AreaNumber": "Area3",
+    "MessageNumber": 9,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000100000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, alarm10",
+    "AreaNumber": "Area3",
+    "MessageNumber": 10,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000001000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, warning1",
+    "AreaNumber": "Area3",
+    "MessageNumber": 11,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000010000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, warning2",
+    "AreaNumber": "Area3",
+    "MessageNumber": 12,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000100000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, warning3",
+    "AreaNumber": "Area3",
+    "MessageNumber": 13,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000001000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, warning4",
+    "AreaNumber": "Area3",
+    "MessageNumber": 14,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000010000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, warning5",
+    "AreaNumber": "Area3",
+    "MessageNumber": 15,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000100000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, warning6",
+    "AreaNumber": "Area3",
+    "MessageNumber": 16,
+    "MessageBitString": "0000000000000000000000000000000000000000000000001000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, warning7",
+    "AreaNumber": "Area3",
+    "MessageNumber": 17,
+    "MessageBitString": "0000000000000000000000000000000000000000000000010000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, warning8",
+    "AreaNumber": "Area3",
+    "MessageNumber": 18,
+    "MessageBitString": "0000000000000000000000000000000000000000000000100000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, warning9",
+    "AreaNumber": "Area3",
+    "MessageNumber": 19,
+    "MessageBitString": "0000000000000000000000000000000000000000000001000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, warning10",
+    "AreaNumber": "Area3",
+    "MessageNumber": 20,
+    "MessageBitString": "0000000000000000000000000000000000000000000010000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, message1: Sync to flight conveyor error, check parameters",
+    "AreaNumber": "Area3",
+    "MessageNumber": 21,
+    "MessageBitString": "0000000000000000000000000000000000000000000100000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, message2",
+    "AreaNumber": "Area3",
+    "MessageNumber": 22,
+    "MessageBitString": "0000000000000000000000000000000000000000001000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, message3",
+    "AreaNumber": "Area3",
+    "MessageNumber": 23,
+    "MessageBitString": "0000000000000000000000000000000000000000010000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, message4",
+    "AreaNumber": "Area3",
+    "MessageNumber": 24,
+    "MessageBitString": "0000000000000000000000000000000000000000100000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, message5",
+    "AreaNumber": "Area3",
+    "MessageNumber": 25,
+    "MessageBitString": "0000000000000000000000000000000000000001000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, message6",
+    "AreaNumber": "Area3",
+    "MessageNumber": 26,
+    "MessageBitString": "0000000000000000000000000000000000000010000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, message7",
+    "AreaNumber": "Area3",
+    "MessageNumber": 27,
+    "MessageBitString": "0000000000000000000000000000000000000100000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, message8",
+    "AreaNumber": "Area3",
+    "MessageNumber": 28,
+    "MessageBitString": "0000000000000000000000000000000000001000000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, message9",
+    "AreaNumber": "Area3",
+    "MessageNumber": 29,
+    "MessageBitString": "0000000000000000000000000000000000010000000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea3",
+    "Area": "Cutter1",
+    "Message": "Area3, message10",
+    "AreaNumber": "Area3",
+    "MessageNumber": 30,
+    "MessageBitString": "0000000000000000000000000000000000100000000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, alarm1: Sync to flight conveyor error, check parameters",
+    "AreaNumber": "Area4",
+    "MessageNumber": 1,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000001"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, alarm2",
+    "AreaNumber": "Area4",
+    "MessageNumber": 2,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000010"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, alarm3",
+    "AreaNumber": "Area4",
+    "MessageNumber": 3,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000100"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, alarm4",
+    "AreaNumber": "Area4",
+    "MessageNumber": 4,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000001000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, alarm5",
+    "AreaNumber": "Area4",
+    "MessageNumber": 5,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000010000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, alarm6",
+    "AreaNumber": "Area4",
+    "MessageNumber": 6,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000100000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, alarm7",
+    "AreaNumber": "Area4",
+    "MessageNumber": 7,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000001000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, alarm8",
+    "AreaNumber": "Area4",
+    "MessageNumber": 8,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000010000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, alarm9",
+    "AreaNumber": "Area4",
+    "MessageNumber": 9,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000100000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, alarm10",
+    "AreaNumber": "Area4",
+    "MessageNumber": 10,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000001000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, warning1",
+    "AreaNumber": "Area4",
+    "MessageNumber": 11,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000010000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, warning2",
+    "AreaNumber": "Area4",
+    "MessageNumber": 12,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000100000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, warning3",
+    "AreaNumber": "Area4",
+    "MessageNumber": 13,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000001000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, warning4",
+    "AreaNumber": "Area4",
+    "MessageNumber": 14,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000010000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, warning5",
+    "AreaNumber": "Area4",
+    "MessageNumber": 15,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000100000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, warning6",
+    "AreaNumber": "Area4",
+    "MessageNumber": 16,
+    "MessageBitString": "0000000000000000000000000000000000000000000000001000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, warning7",
+    "AreaNumber": "Area4",
+    "MessageNumber": 17,
+    "MessageBitString": "0000000000000000000000000000000000000000000000010000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, warning8",
+    "AreaNumber": "Area4",
+    "MessageNumber": 18,
+    "MessageBitString": "0000000000000000000000000000000000000000000000100000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, warning9",
+    "AreaNumber": "Area4",
+    "MessageNumber": 19,
+    "MessageBitString": "0000000000000000000000000000000000000000000001000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, warning10",
+    "AreaNumber": "Area4",
+    "MessageNumber": 20,
+    "MessageBitString": "0000000000000000000000000000000000000000000010000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, message1: Sync to flight conveyor error, check parameters",
+    "AreaNumber": "Area4",
+    "MessageNumber": 21,
+    "MessageBitString": "0000000000000000000000000000000000000000000100000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, message2",
+    "AreaNumber": "Area4",
+    "MessageNumber": 22,
+    "MessageBitString": "0000000000000000000000000000000000000000001000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, message3",
+    "AreaNumber": "Area4",
+    "MessageNumber": 23,
+    "MessageBitString": "0000000000000000000000000000000000000000010000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, message4",
+    "AreaNumber": "Area4",
+    "MessageNumber": 24,
+    "MessageBitString": "0000000000000000000000000000000000000000100000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, message5",
+    "AreaNumber": "Area4",
+    "MessageNumber": 25,
+    "MessageBitString": "0000000000000000000000000000000000000001000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, message6",
+    "AreaNumber": "Area4",
+    "MessageNumber": 26,
+    "MessageBitString": "0000000000000000000000000000000000000010000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, message7",
+    "AreaNumber": "Area4",
+    "MessageNumber": 27,
+    "MessageBitString": "0000000000000000000000000000000000000100000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, message8",
+    "AreaNumber": "Area4",
+    "MessageNumber": 28,
+    "MessageBitString": "0000000000000000000000000000000000001000000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, message9",
+    "AreaNumber": "Area4",
+    "MessageNumber": 29,
+    "MessageBitString": "0000000000000000000000000000000000010000000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea4",
+    "Area": "Cutter2",
+    "Message": "Area4, message10",
+    "AreaNumber": "Area4",
+    "MessageNumber": 30,
+    "MessageBitString": "0000000000000000000000000000000000100000000000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral1",
+    "Area": "GeneralAlarms1",
+    "Message": "Emergency button pressed",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 1,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000001"
+  },
+  {
+    "Expression": "alarmsGeneral1",
+    "Area": "GeneralAlarms1",
+    "Message": "Safety controller NOT acknowledge",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 2,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000010"
+  },
+  {
+    "Expression": "alarmsGeneral1",
+    "Area": "GeneralAlarms1",
+    "Message": "Safety doors open",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 3,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000100"
+  },
+  {
+    "Expression": "alarmsGeneral1",
+    "Area": "GeneralAlarms1",
+    "Message": "Light curtain tripped",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 4,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000001000"
+  },
+  {
+    "Expression": "alarmsGeneral1",
+    "Area": "GeneralAlarms1",
+    "Message": "General Alarm5",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 5,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000010000"
+  },
+  {
+    "Expression": "alarmsGeneral1",
+    "Area": "GeneralAlarms1",
+    "Message": "External emergency pressed",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 6,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000100000"
+  },
+  {
+    "Expression": "alarmsGeneral1",
+    "Area": "GeneralAlarms1",
+    "Message": "Air pressure NOT ok",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 7,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000001000000"
+  },
+  {
+    "Expression": "alarmsGeneral1",
+    "Area": "GeneralAlarms1",
+    "Message": "Gluing alarm",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 8,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000010000000"
+  },
+  {
+    "Expression": "alarmsGeneral1",
+    "Area": "GeneralAlarms1",
+    "Message": "Fieldbus error, see Fieldbus page!",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 9,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000100000000"
+  },
+  {
+    "Expression": "alarmsGeneral1",
+    "Area": "GeneralAlarms1",
+    "Message": "EIP communication error!",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 10,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000001000000000"
+  },
+  {
+    "Expression": "GeneralWarnings_w8",
+    "Area": "GeneralAlarms1",
+    "Message": "General warning 8",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 18,
+    "MessageBitString": "0000000000000000000000000000000000000000000000100000000000000000"
+  },
+  {
+    "Expression": "GeneralWarnings_w9",
+    "Area": "GeneralAlarms1",
+    "Message": "General warning 9",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 19,
+    "MessageBitString": "0000000000000000000000000000000000000000000001000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral1.m1",
+    "Area": "GeneralAlarms1",
+    "Message": "Gluing unit NOT ready",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 21,
+    "MessageBitString": "0000000000000000000000000000000000000000000100000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral1.m2",
+    "Area": "GeneralAlarms1",
+    "Message": "Gluing unit heating up",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 22,
+    "MessageBitString": "0000000000000000000000000000000000000000001000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral1.m3",
+    "Area": "GeneralAlarms1",
+    "Message": "Gluing unit timed off",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 23,
+    "MessageBitString": "0000000000000000000000000000000000000000010000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral1.m4",
+    "Area": "GeneralAlarms1",
+    "Message": "Gluing unit in standby",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 24,
+    "MessageBitString": "0000000000000000000000000000000000000000100000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral1.m5",
+    "Area": "GeneralAlarms1",
+    "Message": "TESTRUN active",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 25,
+    "MessageBitString": "0000000000000000000000000000000000000001000000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral1.m6",
+    "Area": "GeneralAlarms1",
+    "Message": "STEP by STEP active",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 26,
+    "MessageBitString": "0000000000000000000000000000000000000010000000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral1.m7",
+    "Area": "GeneralAlarms1",
+    "Message": "Global overdrive active",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 27,
+    "MessageBitString": "0000000000000000000000000000000000000100000000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral1.m8",
+    "Area": "GeneralAlarms1",
+    "Message": "General message8",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 28,
+    "MessageBitString": "0000000000000000000000000000000000001000000000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral1.m9",
+    "Area": "GeneralAlarms1",
+    "Message": "General message9",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 29,
+    "MessageBitString": "0000000000000000000000000000000000010000000000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral1.m10",
+    "Area": "GeneralAlarms1",
+    "Message": "General message 10",
+    "AreaNumber": "GeneralAlarms1",
+    "MessageNumber": 30,
+    "MessageBitString": "0000000000000000000000000000000000100000000000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral2",
+    "Area": "GeneralAlarms2",
+    "Message": "PLC temperature too high!",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 1,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000001"
+  },
+  {
+    "Expression": "alarmsGeneral2",
+    "Area": "GeneralAlarms2",
+    "Message": "PLC battery needs to be replaced!",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 2,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000010"
+  },
+  {
+    "Expression": "alarmsGeneral2",
+    "Area": "GeneralAlarms2",
+    "Message": "Database error",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 3,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000100"
+  },
+  {
+    "Expression": "alarmsGeneral2",
+    "Area": "GeneralAlarms2",
+    "Message": "No connection to database",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 4,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000001000"
+  },
+  {
+    "Expression": "alarmsGeneral2",
+    "Area": "GeneralAlarms2",
+    "Message": "GeneralAlarm 15",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 5,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000010000"
+  },
+  {
+    "Expression": "alarmsGeneral2",
+    "Area": "GeneralAlarms2",
+    "Message": "Light curtain 2 NOT ok",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 6,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000100000"
+  },
+  {
+    "Expression": "alarmsGeneral2",
+    "Area": "GeneralAlarms2",
+    "Message": "GeneralAlarm 17",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 7,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000001000000"
+  },
+  {
+    "Expression": "alarmsGeneral2",
+    "Area": "GeneralAlarms2",
+    "Message": "GeneralAlarm 18",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 8,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000010000000"
+  },
+  {
+    "Expression": "alarmsGeneral2",
+    "Area": "GeneralAlarms2",
+    "Message": "GeneralAlarm 19",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 9,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000100000000"
+  },
+  {
+    "Expression": "alarmsGeneral2",
+    "Area": "GeneralAlarms2",
+    "Message": "GeneralAlarm 20",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 10,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000001000000000"
+  },
+  {
+    "Expression": "GeneralWarnings_w11",
+    "Area": "GeneralAlarms2",
+    "Message": "General warning 11",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 11,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000010000000000"
+  },
+  {
+    "Expression": "GeneralWarnings_w12",
+    "Area": "GeneralAlarms2",
+    "Message": "General warning 12",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 12,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000100000000000"
+  },
+  {
+    "Expression": "GeneralWarnings_w13",
+    "Area": "GeneralAlarms2",
+    "Message": "General warning 13",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 13,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000001000000000000"
+  },
+  {
+    "Expression": "GeneralWarnings_w14",
+    "Area": "GeneralAlarms2",
+    "Message": "General warning 14",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 14,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000010000000000000"
+  },
+  {
+    "Expression": "GeneralWarnings_w15",
+    "Area": "GeneralAlarms2",
+    "Message": "General warning 15",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 15,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000100000000000000"
+  },
+  {
+    "Expression": "GeneralWarnings_w16",
+    "Area": "GeneralAlarms2",
+    "Message": "General warning 16",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 16,
+    "MessageBitString": "0000000000000000000000000000000000000000000000001000000000000000"
+  },
+  {
+    "Expression": "GeneralWarnings_w17",
+    "Area": "GeneralAlarms2",
+    "Message": "General warning 17",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 17,
+    "MessageBitString": "0000000000000000000000000000000000000000000000010000000000000000"
+  },
+  {
+    "Expression": "GeneralWarnings_w18",
+    "Area": "GeneralAlarms2",
+    "Message": "General warning 18",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 18,
+    "MessageBitString": "0000000000000000000000000000000000000000000000100000000000000000"
+  },
+  {
+    "Expression": "GeneralWarnings_w19",
+    "Area": "GeneralAlarms2",
+    "Message": "General warning 19",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 19,
+    "MessageBitString": "0000000000000000000000000000000000000000000001000000000000000000"
+  },
+  {
+    "Expression": "GeneralWarnings_w20",
+    "Area": "GeneralAlarms2",
+    "Message": "General warning 20",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 20,
+    "MessageBitString": "0000000000000000000000000000000000000000000010000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral2.m1",
+    "Area": "GeneralAlarms2",
+    "Message": "Light curtain 1 NOT ok",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 21,
+    "MessageBitString": "0000000000000000000000000000000000000000000100000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral2.m2",
+    "Area": "GeneralAlarms2",
+    "Message": "General message 12",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 22,
+    "MessageBitString": "0000000000000000000000000000000000000000001000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral2.m3",
+    "Area": "GeneralAlarms2",
+    "Message": "General message 13",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 23,
+    "MessageBitString": "0000000000000000000000000000000000000000010000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral2.m4",
+    "Area": "GeneralAlarms2",
+    "Message": "General message 14",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 24,
+    "MessageBitString": "0000000000000000000000000000000000000000100000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral2.m5",
+    "Area": "GeneralAlarms2",
+    "Message": "General message 15",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 25,
+    "MessageBitString": "0000000000000000000000000000000000000001000000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral2.m6",
+    "Area": "GeneralAlarms2",
+    "Message": "General message 16",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 26,
+    "MessageBitString": "0000000000000000000000000000000000000010000000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral2.m7",
+    "Area": "GeneralAlarms2",
+    "Message": "General message 17",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 27,
+    "MessageBitString": "0000000000000000000000000000000000000100000000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral2.m8",
+    "Area": "GeneralAlarms2",
+    "Message": "General message 18",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 28,
+    "MessageBitString": "0000000000000000000000000000000000001000000000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral2.m9",
+    "Area": "GeneralAlarms2",
+    "Message": "General message 19",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 29,
+    "MessageBitString": "0000000000000000000000000000000000010000000000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral2.m10",
+    "Area": "GeneralAlarms2",
+    "Message": "General message 20",
+    "AreaNumber": "GeneralAlarms2",
+    "MessageNumber": 30,
+    "MessageBitString": "0000000000000000000000000000000000100000000000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3",
+    "Area": "GeneralAlarms3",
+    "Message": "GeneralAlarm 21",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 1,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000001"
+  },
+  {
+    "Expression": "alarmsGeneral3",
+    "Area": "GeneralAlarms3",
+    "Message": "Safety controller NOT acknowledge",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 2,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000010"
+  },
+  {
+    "Expression": "alarmsGeneral3",
+    "Area": "GeneralAlarms3",
+    "Message": "Safety doors open",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 3,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000100"
+  },
+  {
+    "Expression": "alarmsGeneral3",
+    "Area": "GeneralAlarms3",
+    "Message": "GeneralAlarm 24",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 4,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000001000"
+  },
+  {
+    "Expression": "alarmsGeneral3",
+    "Area": "GeneralAlarms3",
+    "Message": "GeneralAlarm 25",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 5,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000010000"
+  },
+  {
+    "Expression": "alarmsGeneral3",
+    "Area": "GeneralAlarms3",
+    "Message": "GeneralAlarm 26",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 6,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000100000"
+  },
+  {
+    "Expression": "alarmsGeneral3",
+    "Area": "GeneralAlarms3",
+    "Message": "GeneralAlarm 27",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 7,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000001000000"
+  },
+  {
+    "Expression": "alarmsGeneral3",
+    "Area": "GeneralAlarms3",
+    "Message": "GeneralAlarm 28",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 8,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000010000000"
+  },
+  {
+    "Expression": "alarmsGeneral3",
+    "Area": "GeneralAlarms3",
+    "Message": "GeneralAlarm 29",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 9,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000100000000"
+  },
+  {
+    "Expression": "alarmsGeneral3",
+    "Area": "GeneralAlarms3",
+    "Message": "GeneralAlarm 30",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 10,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000001000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.m1",
+    "Area": "GeneralAlarms3",
+    "Message": "General message 21",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 21,
+    "MessageBitString": "0000000000000000000000000000000000000000000100000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.m2",
+    "Area": "GeneralAlarms3",
+    "Message": "General message 22",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 22,
+    "MessageBitString": "0000000000000000000000000000000000000000001000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.m3",
+    "Area": "GeneralAlarms3",
+    "Message": "General message 23",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 23,
+    "MessageBitString": "0000000000000000000000000000000000000000010000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.m4",
+    "Area": "GeneralAlarms3",
+    "Message": "General message 24",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 24,
+    "MessageBitString": "0000000000000000000000000000000000000000100000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.m5",
+    "Area": "GeneralAlarms3",
+    "Message": "General message 25",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 25,
+    "MessageBitString": "0000000000000000000000000000000000000001000000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.m6",
+    "Area": "GeneralAlarms3",
+    "Message": "General message 26",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 26,
+    "MessageBitString": "0000000000000000000000000000000000000010000000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.m7",
+    "Area": "GeneralAlarms3",
+    "Message": "General message 27",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 27,
+    "MessageBitString": "0000000000000000000000000000000000000100000000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.m8",
+    "Area": "GeneralAlarms3",
+    "Message": "General message 28",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 28,
+    "MessageBitString": "0000000000000000000000000000000000001000000000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.m9",
+    "Area": "GeneralAlarms3",
+    "Message": "General message 29",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 29,
+    "MessageBitString": "0000000000000000000000000000000000010000000000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.m10",
+    "Area": "GeneralAlarms3",
+    "Message": "General message 30",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 30,
+    "MessageBitString": "0000000000000000000000000000000000100000000000000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.w1",
+    "Area": "GeneralAlarms3",
+    "Message": "General warning 21",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 11,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000010000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.w10",
+    "Area": "GeneralAlarms3",
+    "Message": "General warning 30",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 20,
+    "MessageBitString": "0000000000000000000000000000000000000000000010000000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.w2",
+    "Area": "GeneralAlarms3",
+    "Message": "General warning 22",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 12,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000100000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.w3",
+    "Area": "GeneralAlarms3",
+    "Message": "General warning 23",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 13,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000001000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.w4",
+    "Area": "GeneralAlarms3",
+    "Message": "General warning 24",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 14,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000010000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.w5",
+    "Area": "GeneralAlarms3",
+    "Message": "General warning 25",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 15,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000100000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.w6",
+    "Area": "GeneralAlarms3",
+    "Message": "General warning 26",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 16,
+    "MessageBitString": "0000000000000000000000000000000000000000000000001000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.w7",
+    "Area": "GeneralAlarms3",
+    "Message": "General warning 27",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 17,
+    "MessageBitString": "0000000000000000000000000000000000000000000000010000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.w8",
+    "Area": "GeneralAlarms3",
+    "Message": "General warning 28",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 18,
+    "MessageBitString": "0000000000000000000000000000000000000000000000100000000000000000"
+  },
+  {
+    "Expression": "alarmsGeneral3.w9",
+    "Area": "GeneralAlarms3",
+    "Message": "General warning 29",
+    "AreaNumber": "GeneralAlarms3",
+    "MessageNumber": 19,
+    "MessageBitString": "0000000000000000000000000000000000000000000001000000000000000000"
+  },
+  {
+    "Expression": "Motor alarm 1:Cutter unit 1, X-axis M11",
+    "Area": "Motor",
+    "Message": "Motor alarm 1:Cutter unit 1, X-axis M11",
+    "AreaNumber": "Motor",
+    "MessageNumber": 1,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000001"
+  },
+  {
+    "Expression": "Motor alarm 2:Cutter unit 1, Y-axis M12",
+    "Area": "Motor",
+    "Message": "Motor alarm 2:Cutter unit 1, Y-axis M12",
+    "AreaNumber": "Motor",
+    "MessageNumber": 2,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000010"
+  },
+  {
+    "Expression": "Motor alarm 3:Cutter unit 1, z-axis M13",
+    "Area": "Motor",
+    "Message": "Motor alarm 3:Cutter unit 1, z-axis M13",
+    "AreaNumber": "Motor",
+    "MessageNumber": 3,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000100"
+  },
+  {
+    "Expression": "Motor alarm 4:Cutter unit 2, X-axis M14",
+    "Area": "Motor",
+    "Message": "Motor alarm 4:Cutter unit 2, X-axis M14",
+    "AreaNumber": "Motor",
+    "MessageNumber": 4,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000001000"
+  },
+  {
+    "Expression": "Motor alarm 5:Cutter unit 2, Y-axis M15",
+    "Area": "Motor",
+    "Message": "Motor alarm 5:Cutter unit 2, Y-axis M15",
+    "AreaNumber": "Motor",
+    "MessageNumber": 5,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000010000"
+  },
+  {
+    "Expression": "Motor alarm 6:Cutter unit 2, z-axis M16",
+    "Area": "Motor",
+    "Message": "Motor alarm 6:Cutter unit 2, z-axis M16",
+    "AreaNumber": "Motor",
+    "MessageNumber": 6,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000100000"
+  },
+  {
+    "Expression": "Motor alarm 7:Cutter unit 3, X-axis M17",
+    "Area": "Motor",
+    "Message": "Motor alarm 7:Cutter unit 3, X-axis M17",
+    "AreaNumber": "Motor",
+    "MessageNumber": 7,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000001000000"
+  },
+  {
+    "Expression": "Motor alarm 8:Cutter unit 3, Y-axis M18",
+    "Area": "Motor",
+    "Message": "Motor alarm 8:Cutter unit 3, Y-axis M18",
+    "AreaNumber": "Motor",
+    "MessageNumber": 8,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000010000000"
+  },
+  {
+    "Expression": "Motor alarm 9:Cutter unit 3, z-axis M19",
+    "Area": "Motor",
+    "Message": "Motor alarm 9:Cutter unit 3, z-axis M19",
+    "AreaNumber": "Motor",
+    "MessageNumber": 9,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000100000000"
+  },
+  {
+    "Expression": "Motor alarm 10:Cutter unit 4, X-axis M20",
+    "Area": "Motor",
+    "Message": "Motor alarm 10:Cutter unit 4, X-axis M20",
+    "AreaNumber": "Motor",
+    "MessageNumber": 10,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000001000000000"
+  },
+  {
+    "Expression": "Motor alarm 11:Cutter unit 4, Y-axis M21",
+    "Area": "Motor",
+    "Message": "Motor alarm 11:Cutter unit 4, Y-axis M21",
+    "AreaNumber": "Motor",
+    "MessageNumber": 11,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000010000000000"
+  },
+  {
+    "Expression": "Motor alarm 12:Cutter unit 4, z-axis M22",
+    "Area": "Motor",
+    "Message": "Motor alarm 12:Cutter unit 4, z-axis M22",
+    "AreaNumber": "Motor",
+    "MessageNumber": 12,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000100000000000"
+  },
+  {
+    "Expression": "Motor alarm 13:Bending unit 1, X-axis M23",
+    "Area": "Motor",
+    "Message": "Motor alarm 13:Bending unit 1, X-axis M23",
+    "AreaNumber": "Motor",
+    "MessageNumber": 13,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000001000000000000"
+  },
+  {
+    "Expression": "Motor alarm 14:Bending unit 1, Y-axis M24",
+    "Area": "Motor",
+    "Message": "Motor alarm 14:Bending unit 1, Y-axis M24",
+    "AreaNumber": "Motor",
+    "MessageNumber": 14,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000010000000000000"
+  },
+  {
+    "Expression": "Motor alarm 15:Bending unit 1, z-axis M25",
+    "Area": "Motor",
+    "Message": "Motor alarm 15:Bending unit 1, z-axis M25",
+    "AreaNumber": "Motor",
+    "MessageNumber": 15,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000100000000000000"
+  },
+  {
+    "Expression": "Motor alarm 16:Bending unit 2, X-axis M26",
+    "Area": "Motor",
+    "Message": "Motor alarm 16:Bending unit 2, X-axis M26",
+    "AreaNumber": "Motor",
+    "MessageNumber": 16,
+    "MessageBitString": "0000000000000000000000000000000000000000000000001000000000000000"
+  },
+  {
+    "Expression": "Motor alarm 17:Bending unit 2, Y-axis M27",
+    "Area": "Motor",
+    "Message": "Motor alarm 17:Bending unit 2, Y-axis M27",
+    "AreaNumber": "Motor",
+    "MessageNumber": 17,
+    "MessageBitString": "0000000000000000000000000000000000000000000000010000000000000000"
+  },
+  {
+    "Expression": "Motor alarm 18:Bending unit 2, Z-axis M28",
+    "Area": "Motor",
+    "Message": "Motor alarm 18:Bending unit 2, Z-axis M28",
+    "AreaNumber": "Motor",
+    "MessageNumber": 18,
+    "MessageBitString": "0000000000000000000000000000000000000000000000100000000000000000"
+  },
+  {
+    "Expression": "Motor alarm 19:Closing unit, Y-axis M29",
+    "Area": "Motor",
+    "Message": "Motor alarm 19:Closing unit, Y-axis M29",
+    "AreaNumber": "Motor",
+    "MessageNumber": 19,
+    "MessageBitString": "0000000000000000000000000000000000000000000001000000000000000000"
+  },
+  {
+    "Expression": "Motor alarm 20:Closing unit, Z-axis M30",
+    "Area": "Motor",
+    "Message": "Motor alarm 20:Closing unit, Z-axis M30",
+    "AreaNumber": "Motor",
+    "MessageNumber": 20,
+    "MessageBitString": "0000000000000000000000000000000000000000000010000000000000000000"
+  },
+  {
+    "Expression": "Motor alarm 21:Closing unit, Conveyor M31",
+    "Area": "Motor",
+    "Message": "Motor alarm 21:Closing unit, Conveyor M31",
+    "AreaNumber": "Motor",
+    "MessageNumber": 21,
+    "MessageBitString": "0000000000000000000000000000000000000000000100000000000000000000"
+  },
+  {
+    "Expression": "Motor alarm22:Infeed Conveyor M32",
+    "Area": "Motor",
+    "Message": "Motor alarm22:Infeed Conveyor M32",
+    "AreaNumber": "Motor",
+    "MessageNumber": 22,
+    "MessageBitString": "0000000000000000000000000000000000000000001000000000000000000000"
+  },
+  {
+    "Expression": "Motor alarm 23:Scanner Conveyor M33",
+    "Area": "Motor",
+    "Message": "Motor alarm 23:Scanner Conveyor M33",
+    "AreaNumber": "Motor",
+    "MessageNumber": 23,
+    "MessageBitString": "0000000000000000000000000000000000000000010000000000000000000000"
+  },
+  {
+    "Expression": "Motor alarm 24:Flight Conveyor M34",
+    "Area": "Motor",
+    "Message": "Motor alarm 24:Flight Conveyor M34",
+    "AreaNumber": "Motor",
+    "MessageNumber": 24,
+    "MessageBitString": "0000000000000000000000000000000000000000100000000000000000000000"
+  },
+  {
+    "Expression": "Motor alarm 25",
+    "Area": "Motor",
+    "Message": "Motor alarm 25",
+    "AreaNumber": "Motor",
+    "MessageNumber": 25,
+    "MessageBitString": "0000000000000000000000000000000000000001000000000000000000000000"
+  },
+  {
+    "Expression": "Motor alarm 26",
+    "Area": "Motor",
+    "Message": "Motor alarm 26",
+    "AreaNumber": "Motor",
+    "MessageNumber": 26,
+    "MessageBitString": "0000000000000000000000000000000000000010000000000000000000000000"
+  },
+  {
+    "Expression": "Motor alarm 27",
+    "Area": "Motor",
+    "Message": "Motor alarm 27",
+    "AreaNumber": "Motor",
+    "MessageNumber": 27,
+    "MessageBitString": "0000000000000000000000000000000000000100000000000000000000000000"
+  },
+  {
+    "Expression": "Motor alarm 28",
+    "Area": "Motor",
+    "Message": "Motor alarm 28",
+    "AreaNumber": "Motor",
+    "MessageNumber": 28,
+    "MessageBitString": "0000000000000000000000000000000000001000000000000000000000000000"
+  },
+  {
+    "Expression": "Motor alarm 29",
+    "Area": "Motor",
+    "Message": "Motor alarm 29",
+    "AreaNumber": "Motor",
+    "MessageNumber": 29,
+    "MessageBitString": "0000000000000000000000000000000000010000000000000000000000000000"
+  },
+  {
+    "Expression": "Motor alarm 30",
+    "Area": "Motor",
+    "Message": "Motor alarm 30",
+    "AreaNumber": "Motor",
+    "MessageNumber": 30,
+    "MessageBitString": "0000000000000000000000000000000000100000000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, alarm1",
+    "AreaNumber": "Area1",
+    "MessageNumber": 1,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000001"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, alarm10",
+    "AreaNumber": "Area1",
+    "MessageNumber": 10,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000001000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, alarm2: Box data at scanner not valid",
+    "AreaNumber": "Area1",
+    "MessageNumber": 2,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000010"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, alarm3",
+    "AreaNumber": "Area1",
+    "MessageNumber": 3,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000100"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, alarm4",
+    "AreaNumber": "Area1",
+    "MessageNumber": 4,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000001000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, alarm5",
+    "AreaNumber": "Area1",
+    "MessageNumber": 5,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000010000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, alarm6",
+    "AreaNumber": "Area1",
+    "MessageNumber": 6,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000100000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, alarm7",
+    "AreaNumber": "Area1",
+    "MessageNumber": 7,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000001000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, alarm8",
+    "AreaNumber": "Area1",
+    "MessageNumber": 8,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000010000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, alarm9",
+    "AreaNumber": "Area1",
+    "MessageNumber": 9,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000100000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, message1",
+    "AreaNumber": "Area1",
+    "MessageNumber": 21,
+    "MessageBitString": "0000000000000000000000000000000000000000000100000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, message10",
+    "AreaNumber": "Area1",
+    "MessageNumber": 30,
+    "MessageBitString": "0000000000000000000000000000000000100000000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, message2: Box data at scanner not valid",
+    "AreaNumber": "Area1",
+    "MessageNumber": 22,
+    "MessageBitString": "0000000000000000000000000000000000000000001000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, message3",
+    "AreaNumber": "Area1",
+    "MessageNumber": 23,
+    "MessageBitString": "0000000000000000000000000000000000000000010000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, message4",
+    "AreaNumber": "Area1",
+    "MessageNumber": 24,
+    "MessageBitString": "0000000000000000000000000000000000000000100000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, message5",
+    "AreaNumber": "Area1",
+    "MessageNumber": 25,
+    "MessageBitString": "0000000000000000000000000000000000000001000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, message6",
+    "AreaNumber": "Area1",
+    "MessageNumber": 26,
+    "MessageBitString": "0000000000000000000000000000000000000010000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, message7",
+    "AreaNumber": "Area1",
+    "MessageNumber": 27,
+    "MessageBitString": "0000000000000000000000000000000000000100000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, message8",
+    "AreaNumber": "Area1",
+    "MessageNumber": 28,
+    "MessageBitString": "0000000000000000000000000000000000001000000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, message9",
+    "AreaNumber": "Area1",
+    "MessageNumber": 29,
+    "MessageBitString": "0000000000000000000000000000000000010000000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, warning1",
+    "AreaNumber": "Area1",
+    "MessageNumber": 11,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000010000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, warning10",
+    "AreaNumber": "Area1",
+    "MessageNumber": 20,
+    "MessageBitString": "0000000000000000000000000000000000000000000010000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, warning2",
+    "AreaNumber": "Area1",
+    "MessageNumber": 12,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000100000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, warning3",
+    "AreaNumber": "Area1",
+    "MessageNumber": 13,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000001000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, warning4",
+    "AreaNumber": "Area1",
+    "MessageNumber": 14,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000010000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, warning5",
+    "AreaNumber": "Area1",
+    "MessageNumber": 15,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000100000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, warning6",
+    "AreaNumber": "Area1",
+    "MessageNumber": 16,
+    "MessageBitString": "0000000000000000000000000000000000000000000000001000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, warning7",
+    "AreaNumber": "Area1",
+    "MessageNumber": 17,
+    "MessageBitString": "0000000000000000000000000000000000000000000000010000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, warning8",
+    "AreaNumber": "Area1",
+    "MessageNumber": 18,
+    "MessageBitString": "0000000000000000000000000000000000000000000000100000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea1",
+    "Area": "Scanner",
+    "Message": "Area1, warning9",
+    "AreaNumber": "Area1",
+    "MessageNumber": 19,
+    "MessageBitString": "0000000000000000000000000000000000000000000001000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, alarm1: Tape roll didn't spin, check taper",
+    "AreaNumber": "Area6",
+    "MessageNumber": 1,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000001"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, alarm2: Low on tape",
+    "AreaNumber": "Area6",
+    "MessageNumber": 2,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000010"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, alarm3: Box not detect under taper. Press OK to acknowledge.",
+    "AreaNumber": "Area6",
+    "MessageNumber": 3,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000100"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, alarm4",
+    "AreaNumber": "Area6",
+    "MessageNumber": 4,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000001000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, alarm5",
+    "AreaNumber": "Area6",
+    "MessageNumber": 5,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000010000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, alarm6",
+    "AreaNumber": "Area6",
+    "MessageNumber": 6,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000100000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, alarm7",
+    "AreaNumber": "Area6",
+    "MessageNumber": 7,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000001000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, alarm8",
+    "AreaNumber": "Area6",
+    "MessageNumber": 8,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000010000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, alarm9",
+    "AreaNumber": "Area6",
+    "MessageNumber": 9,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000100000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, alarm10",
+    "AreaNumber": "Area6",
+    "MessageNumber": 10,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000001000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, warning1",
+    "AreaNumber": "Area6",
+    "MessageNumber": 11,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000010000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, warning2",
+    "AreaNumber": "Area6",
+    "MessageNumber": 12,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000100000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, warning3",
+    "AreaNumber": "Area6",
+    "MessageNumber": 13,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000001000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, warning4",
+    "AreaNumber": "Area6",
+    "MessageNumber": 14,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000010000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, warning5",
+    "AreaNumber": "Area6",
+    "MessageNumber": 15,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000100000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, warning6",
+    "AreaNumber": "Area6",
+    "MessageNumber": 16,
+    "MessageBitString": "0000000000000000000000000000000000000000000000001000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, warning7",
+    "AreaNumber": "Area6",
+    "MessageNumber": 17,
+    "MessageBitString": "0000000000000000000000000000000000000000000000010000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, warning8",
+    "AreaNumber": "Area6",
+    "MessageNumber": 18,
+    "MessageBitString": "0000000000000000000000000000000000000000000000100000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, warning9",
+    "AreaNumber": "Area6",
+    "MessageNumber": 19,
+    "MessageBitString": "0000000000000000000000000000000000000000000001000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, warning10",
+    "AreaNumber": "Area6",
+    "MessageNumber": 20,
+    "MessageBitString": "0000000000000000000000000000000000000000000010000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, message1: Tape roll didn't spin, check taper",
+    "AreaNumber": "Area6",
+    "MessageNumber": 21,
+    "MessageBitString": "0000000000000000000000000000000000000000000100000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, message2: Low on tape",
+    "AreaNumber": "Area6",
+    "MessageNumber": 22,
+    "MessageBitString": "0000000000000000000000000000000000000000001000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, message3: Box not detect under taper. Press OK to acknowledge.",
+    "AreaNumber": "Area6",
+    "MessageNumber": 23,
+    "MessageBitString": "0000000000000000000000000000000000000000010000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, message4",
+    "AreaNumber": "Area6",
+    "MessageNumber": 24,
+    "MessageBitString": "0000000000000000000000000000000000000000100000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, message5",
+    "AreaNumber": "Area6",
+    "MessageNumber": 25,
+    "MessageBitString": "0000000000000000000000000000000000000001000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, message6",
+    "AreaNumber": "Area6",
+    "MessageNumber": 26,
+    "MessageBitString": "0000000000000000000000000000000000000010000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, message7",
+    "AreaNumber": "Area6",
+    "MessageNumber": 27,
+    "MessageBitString": "0000000000000000000000000000000000000100000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, message8",
+    "AreaNumber": "Area6",
+    "MessageNumber": 28,
+    "MessageBitString": "0000000000000000000000000000000000001000000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, message9",
+    "AreaNumber": "Area6",
+    "MessageNumber": 29,
+    "MessageBitString": "0000000000000000000000000000000000010000000000000000000000000000"
+  },
+  {
+    "Expression": "HMI_alarmsArea6",
+    "Area": "Taper",
+    "Message": "Area6, message10",
+    "AreaNumber": "Area6",
+    "MessageNumber": 30,
+    "MessageBitString": "0000000000000000000000000000000000100000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v01",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V1, Cutter unit 1, blade centering",
+    "AreaNumber": "Valves",
+    "MessageNumber": 1,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000001"
+  },
+  {
+    "Expression": "ValveAlarms_front_v02",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V2, Cutter unit 1, cutting",
+    "AreaNumber": "Valves",
+    "MessageNumber": 2,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000010"
+  },
+  {
+    "Expression": "ValveAlarms_front_v03",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V3, Cutter unit 1, creasing",
+    "AreaNumber": "Valves",
+    "MessageNumber": 3,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000100"
+  },
+  {
+    "Expression": "ValveAlarms_front_v04",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V4, Cutter unit 2, blade centering",
+    "AreaNumber": "Valves",
+    "MessageNumber": 4,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000001000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v05",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V5, Cutter unit 2,cutting",
+    "AreaNumber": "Valves",
+    "MessageNumber": 5,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000010000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v06",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V6, Cutter unit 2, creasing",
+    "AreaNumber": "Valves",
+    "MessageNumber": 6,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000100000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v07",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V7, Cutter unit 3, blade centering",
+    "AreaNumber": "Valves",
+    "MessageNumber": 7,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000001000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v08",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V8, Cutter unit 3,cutting",
+    "AreaNumber": "Valves",
+    "MessageNumber": 8,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000010000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v09",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V9, Cutter unit 3, creasing",
+    "AreaNumber": "Valves",
+    "MessageNumber": 9,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000100000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v10",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V10, Cutter unit 4, blade centering",
+    "AreaNumber": "Valves",
+    "MessageNumber": 10,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000001000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v11",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V11, Cutter unit 4,cutting",
+    "AreaNumber": "Valves",
+    "MessageNumber": 11,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000010000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v12",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V12, Cutter unit 4, creasing",
+    "AreaNumber": "Valves",
+    "MessageNumber": 12,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000100000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v13",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V13,Bending unit 1,presser",
+    "AreaNumber": "Valves",
+    "MessageNumber": 13,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000001000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v14",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V14,Bending unit 2,presser",
+    "AreaNumber": "Valves",
+    "MessageNumber": 14,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000010000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v15",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V15,Roll conveyor, box centering",
+    "AreaNumber": "Valves",
+    "MessageNumber": 15,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000100000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v16",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V16,Flight conveyor,box centering 1",
+    "AreaNumber": "Valves",
+    "MessageNumber": 16,
+    "MessageBitString": "0000000000000000000000000000000000000000000000001000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v17",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V17,Flight conveyor,box centering 2",
+    "AreaNumber": "Valves",
+    "MessageNumber": 17,
+    "MessageBitString": "0000000000000000000000000000000000000000000000010000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v18",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V18,Flight conveyor,box centering 3",
+    "AreaNumber": "Valves",
+    "MessageNumber": 18,
+    "MessageBitString": "0000000000000000000000000000000000000000000000100000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v19",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V19,Scanner conveyor lift",
+    "AreaNumber": "Valves",
+    "MessageNumber": 19,
+    "MessageBitString": "0000000000000000000000000000000000000000000001000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v20",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V20, Cutters 1&2 extended creasing",
+    "AreaNumber": "Valves",
+    "MessageNumber": 20,
+    "MessageBitString": "0000000000000000000000000000000000000000000010000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v21",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V21, Cutters 3&4 extended creasing",
+    "AreaNumber": "Valves",
+    "MessageNumber": 21,
+    "MessageBitString": "0000000000000000000000000000000000000000000100000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v22",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V22, Back bender press",
+    "AreaNumber": "Valves",
+    "MessageNumber": 22,
+    "MessageBitString": "0000000000000000000000000000000000000000001000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v23",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V23, Front bender press",
+    "AreaNumber": "Valves",
+    "MessageNumber": 23,
+    "MessageBitString": "0000000000000000000000000000000000000000010000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v24",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V24",
+    "AreaNumber": "Valves",
+    "MessageNumber": 24,
+    "MessageBitString": "0000000000000000000000000000000000000000100000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v25",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V25",
+    "AreaNumber": "Valves",
+    "MessageNumber": 25,
+    "MessageBitString": "0000000000000000000000000000000000000001000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v26",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V26",
+    "AreaNumber": "Valves",
+    "MessageNumber": 26,
+    "MessageBitString": "0000000000000000000000000000000000000010000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v27",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V27",
+    "AreaNumber": "Valves",
+    "MessageNumber": 27,
+    "MessageBitString": "0000000000000000000000000000000000000100000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v28",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V28",
+    "AreaNumber": "Valves",
+    "MessageNumber": 28,
+    "MessageBitString": "0000000000000000000000000000000000001000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v29",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V29",
+    "AreaNumber": "Valves",
+    "MessageNumber": 29,
+    "MessageBitString": "0000000000000000000000000000000000010000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v30",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V30",
+    "AreaNumber": "Valves",
+    "MessageNumber": 30,
+    "MessageBitString": "0000000000000000000000000000000000100000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v31",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V31",
+    "AreaNumber": "Valves",
+    "MessageNumber": 31,
+    "MessageBitString": "0000000000000000000000000000000001000000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v32",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V32",
+    "AreaNumber": "Valves",
+    "MessageNumber": 32,
+    "MessageBitString": "0000000000000000000000000000000010000000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v33",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V33",
+    "AreaNumber": "Valves",
+    "MessageNumber": 33,
+    "MessageBitString": "0000000000000000000000000000000100000000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v34",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V34",
+    "AreaNumber": "Valves",
+    "MessageNumber": 34,
+    "MessageBitString": "0000000000000000000000000000001000000000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v35",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V35",
+    "AreaNumber": "Valves",
+    "MessageNumber": 35,
+    "MessageBitString": "0000000000000000000000000000010000000000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v36",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V36",
+    "AreaNumber": "Valves",
+    "MessageNumber": 36,
+    "MessageBitString": "0000000000000000000000000000100000000000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v37",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V37",
+    "AreaNumber": "Valves",
+    "MessageNumber": 37,
+    "MessageBitString": "0000000000000000000000000001000000000000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v38",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V38",
+    "AreaNumber": "Valves",
+    "MessageNumber": 38,
+    "MessageBitString": "0000000000000000000000000010000000000000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v39",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V39",
+    "AreaNumber": "Valves",
+    "MessageNumber": 39,
+    "MessageBitString": "0000000000000000000000000100000000000000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v40",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V40",
+    "AreaNumber": "Valves",
+    "MessageNumber": 40,
+    "MessageBitString": "0000000000000000000000001000000000000000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v41",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V41",
+    "AreaNumber": "Valves",
+    "MessageNumber": 41,
+    "MessageBitString": "0000000000000000000000010000000000000000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v42",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V42",
+    "AreaNumber": "Valves",
+    "MessageNumber": 42,
+    "MessageBitString": "0000000000000000000000100000000000000000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v43",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V43",
+    "AreaNumber": "Valves",
+    "MessageNumber": 43,
+    "MessageBitString": "0000000000000000000001000000000000000000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v44",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V44",
+    "AreaNumber": "Valves",
+    "MessageNumber": 44,
+    "MessageBitString": "0000000000000000000010000000000000000000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v45",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V45",
+    "AreaNumber": "Valves",
+    "MessageNumber": 45,
+    "MessageBitString": "0000000000000000000100000000000000000000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v46",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V46",
+    "AreaNumber": "Valves",
+    "MessageNumber": 46,
+    "MessageBitString": "0000000000000000001000000000000000000000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v47",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V47",
+    "AreaNumber": "Valves",
+    "MessageNumber": 47,
+    "MessageBitString": "0000000000000000010000000000000000000000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v48",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V48",
+    "AreaNumber": "Valves",
+    "MessageNumber": 48,
+    "MessageBitString": "0000000000000000100000000000000000000000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v49",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V49",
+    "AreaNumber": "Valves",
+    "MessageNumber": 49,
+    "MessageBitString": "0000000000000001000000000000000000000000000000000000000000000000"
+  },
+  {
+    "Expression": "ValveAlarms_front_v50",
+    "Area": "Valves",
+    "Message": "Valve front limit alarm V50",
+    "AreaNumber": "Valves",
+    "MessageNumber": 50,
+    "MessageBitString": "0000000000000010000000000000000000000000000000000000000000000000"
+  },
+  {
+    "Expression": "StateChange_v2",
+    "Area": "StateChange",
+    "Message": "Not Auto Not Manual Not Homing",
+    "AreaNumber": "StateChange",
+    "MessageNumber": 2,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000010"
+  },
+  {
+    "Expression": "StateChange_v3",
+    "Area": "StateChange",
+    "Message": "Manual",
+    "AreaNumber": "StateChange",
+    "MessageNumber": 3,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000100"
+  },
+  {
+    "Expression": "StateChange_v4",
+    "Area": "StateChange",
+    "Message": "ReadyHoming",
+    "AreaNumber": "StateChange",
+    "MessageNumber": 4,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000001000"
+  },
+  {
+    "Expression": "StateChange_v5",
+    "Area": "StateChange",
+    "Message": "Homing",
+    "AreaNumber": "StateChange",
+    "MessageNumber": 5,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000010000"
+  },
+  {
+    "Expression": "StateChange_v6",
+    "Area": "StateChange",
+    "Message": "ReadyToHome",
+    "AreaNumber": "StateChange",
+    "MessageNumber": 6,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000100000"
+  },
+  {
+    "Expression": "StateChange_v7",
+    "Area": "StateChange",
+    "Message": "Home",
+    "AreaNumber": "StateChange",
+    "MessageNumber": 7,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000001000000"
+  },
+  {
+    "Expression": "StateChange_v8",
+    "Area": "StateChange",
+    "Message": "Auto",
+    "AreaNumber": "StateChange",
+    "MessageNumber": 8,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000010000000"
+  },
+  {
+    "Expression": "StateChange_v9",
+    "Area": "StateChange",
+    "Message": "Production Stop",
+    "AreaNumber": "StateChange",
+    "MessageNumber": 9,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000100000000"
+  },
+  {
+    "Expression": "StateChange_v10",
+    "Area": "StateChange",
+    "Message": "Safety Stop",
+    "AreaNumber": "StateChange",
+    "MessageNumber": 10,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000001000000000"
+  },
+  {
+    "Expression": "StateChange_v11",
+    "Area": "StateChange",
+    "Message": "StartingAuto",
+    "AreaNumber": "StateChange",
+    "MessageNumber": 11,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000010000000000"
+  },
+  {
+    "Expression": "StateChange_v12",
+    "Area": "StateChange",
+    "Message": "Production Stop Request",
+    "AreaNumber": "StateChange",
+    "MessageNumber": 12,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000100000000000"
+  },
+  {
+    "Expression": "StateChange_v1",
+    "Area": "StateChange",
+    "Message": "Emergency Button Pressed",
+    "AreaNumber": "StateChange",
+    "MessageNumber": 1,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000001"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Error",
+    "Area": "PLC_SENSE AND DISPENSE",
+    "Message": "Communication Error!",
+    "AreaNumber": "PLC_SENSE AND DISPENSE",
+    "MessageNumber": 1,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "Expression": "Size_Master_Error",
+    "Area": "PLC_SIZE MASTER",
+    "Message": "Communication Error!",
+    "AreaNumber": "PLC_SIZE MASTER",
+    "MessageNumber": 1,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Air_Error",
+    "Area": "PLC_Sense And Dispense Air",
+    "Message": "Communication Error!",
+    "AreaNumber": "PLC_Sense And Dispense Air",
+    "MessageNumber": 1,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Paper_Error",
+    "Area": "PLC_Sense And Dispense Paper",
+    "Message": "Communication Error!",
+    "AreaNumber": "PLC_Sense And Dispense Paper",
+    "MessageNumber": 1,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "Expression": "Size_Master_Error",
+    "Area": "PLC_size master",
+    "Message": "Communication Error!",
+    "AreaNumber": "PLC_size master",
+    "MessageNumber": 1,
+    "MessageBitString": "0000000000000000000000000000000000000000000000000000000000000000"
+  },
+   {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1R_BoardOverHeat",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 1,
+    "MessageBitString": "X1R_BoardOverHeat"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1R_Over voltage",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 2,
+    "MessageBitString": "X1R_Over voltage"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1R_Low voltage",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 3,
+    "MessageBitString": "X1R_Low voltage"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1R_Over heat",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 4,
+    "MessageBitString": "X1R_Over heat"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1R_Over current",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 5,
+    "MessageBitString": "X1R_Over current"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1R_Short circuit",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 6,
+    "MessageBitString": "X1R_Short circuit"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1R_Not connected",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 7,
+    "MessageBitString": "X1R_Not connected"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1R_Overloaded",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 10,
+    "MessageBitString": "X1R_Overloaded"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1R_Stalled",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 11,
+    "MessageBitString": "X1R_Stalled"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1R_Sensor error",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 12,
+    "MessageBitString": "X1R_Sensor error"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1R_Motor not used",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 13,
+    "MessageBitString": "X1R_Motor not used"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1L_BoardOverHeat",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 14,
+    "MessageBitString": "X1L_BoardOverHeat"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1L_Over voltage",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 15,
+    "MessageBitString": "X1L_Over voltage"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1L_Low voltage",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 16,
+    "MessageBitString": "X1L_Low voltage"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1L_Over heat",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 17,
+    "MessageBitString": "X1L_Over heat"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1L_Over current",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 18,
+    "MessageBitString": "X1L_Over current"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1L_Short circuit",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 19,
+    "MessageBitString": "X1L_Short circuit"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1L_Not connected",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 20,
+    "MessageBitString": "X1L_Not connected"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1L_Overloaded",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 21,
+    "MessageBitString": "X1L_Overloaded"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1L_Stalled",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 22,
+    "MessageBitString": "X1L_Stalled"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1L_Sensor error",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 23,
+    "MessageBitString": "X1L_Sensor error"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X1L_Motor not used",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 24,
+    "MessageBitString": "X1L_Motor not used"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2R_BoardOverHeat",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 25,
+    "MessageBitString": "X2R_BoardOverHeat"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2R_Over voltage",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 26,
+    "MessageBitString": "X2R_Over voltage"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2R_Low voltage",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 27,
+    "MessageBitString": "X2R_Low voltage"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2R_Over heat",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 28,
+    "MessageBitString": "X2R_Over heat"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2R_Over current",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 29,
+    "MessageBitString": "X2R_Over current"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2R_Short circuit",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 30,
+    "MessageBitString": "X2R_Short circuit"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2R_Not connected",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 31,
+    "MessageBitString": "X2R_Not connected"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2R_Overloaded",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 32,
+    "MessageBitString": "X2R_Overloaded"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2R_Stalled",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 33,
+    "MessageBitString": "X2R_Stalled"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2R_Sensor error",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 34,
+    "MessageBitString": "X2R_Sensor error"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2R_Motor not used",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 35,
+    "MessageBitString": "X2R_Motor not used"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2L_BoardOverHeat",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 36,
+    "MessageBitString": "X2L_BoardOverHeat"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2L_Over voltage",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 37,
+    "MessageBitString": "X2L_Over voltage"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2L_Low voltage",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 38,
+    "MessageBitString": "X2L_Low voltage"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2L_Over heat",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 39,
+    "MessageBitString": "X2L_Over heat"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2L_Over current",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 40,
+    "MessageBitString": "X2L_Over current"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2L_Short circuit",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 41,
+    "MessageBitString": "X2L_Short circuit"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2L_Not connected",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 42,
+    "MessageBitString": "X2L_Not connected"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2L_Overloaded",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 43,
+    "MessageBitString": "X2L_Overloaded"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2L_Stalled",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 44,
+    "MessageBitString": "X2L_Stalled"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2L_Sensor error",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 45,
+    "MessageBitString": "X2L_Sensor error"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Conveyor",
+    "Area": "Conveyor",
+    "Message": "X2L_Motor not used",
+    "AreaNumber": "Sense_And_Dispense_Conveyor",
+    "MessageNumber": 56,
+    "MessageBitString": "X2L_Motor not used"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Crowder",
+    "Area": "Crowder",
+    "Message": "Crowder_noAlarms",
+    "AreaNumber": "Sense_And_Dispense_Crowder",
+    "MessageNumber": 1,
+    "MessageBitString": "Crowder_noAlarms"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Crowder",
+    "Area": "Crowder",
+    "Message": "Crowder_CrowderFault",
+    "AreaNumber": "Sense_And_Dispense_Crowder",
+    "MessageNumber": 2,
+    "MessageBitString": "Crowder_CrowderFault"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Crowder",
+    "Area": "Crowder",
+    "Message": "Crowder_CrowderOpen",
+    "AreaNumber": "Sense_And_Dispense_Crowder",
+    "MessageNumber": 3,
+    "MessageBitString": "Crowder_CrowderOpen"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Crowder",
+    "Area": "Crowder",
+    "Message": "Crowder_CrowderClosed",
+    "AreaNumber": "Sense_And_Dispense_Crowder",
+    "MessageNumber": 4,
+    "MessageBitString": "Crowder_CrowderClosed"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Crowder",
+    "Area": "Crowder",
+    "Message": "Crowder_CrowderCycled",
+    "AreaNumber": "Sense_And_Dispense_Crowder",
+    "MessageNumber": 5,
+    "MessageBitString": "Crowder_CrowderCycled"
+  },
+  {
+    "Expression": "Sense_And_Dispense_MeasurementsSensor",
+    "Area": "MeasurementsSensor",
+    "Message": "Gocator_NoAlarms",
+    "AreaNumber": "Sense_And_Dispense_MeasurementsSensor",
+    "MessageNumber": 1,
+    "MessageBitString": "Gocator_NoAlarms"
+  },
+  {
+    "Expression": "Sense_And_Dispense_MeasurementsSensor",
+    "Area": "MeasurementsSensor",
+    "Message": "Gocator_NoRead",
+    "AreaNumber": "Sense_And_Dispense_MeasurementsSensor",
+    "MessageNumber": 2,
+    "MessageBitString": "Gocator_NoRead"
+  },
+  {
+    "Expression": "Sense_And_Dispense_MeasurementsSensor",
+    "Area": "MeasurementsSensor",
+    "Message": "RealSense_NoAlarms",
+    "AreaNumber": "Sense_And_Dispense_MeasurementsSensor",
+    "MessageNumber": 3,
+    "MessageBitString": "RealSense_NoAlarms"
+  },
+  {
+    "Expression": "Sense_And_Dispense_MeasurementsSensor",
+    "Area": "MeasurementsSensor",
+    "Message": "RealSense_NoRead",
+    "AreaNumber": "Sense_And_Dispense_MeasurementsSensor",
+    "MessageNumber": 4,
+    "MessageBitString": "RealSense_NoRead"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Dispenser",
+    "Area": "Dispenser",
+    "Message": "Dispenser_Initializing",
+    "AreaNumber": "Sense_And_Dispense_Dispenser",
+    "MessageNumber": 1,
+    "MessageBitString": "Dispenser_Initializing"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Dispenser",
+    "Area": "Dispenser",
+    "Message": "Dispenser_Error",
+    "AreaNumber": "Sense_And_Dispense_Dispenser",
+    "MessageNumber": 2,
+    "MessageBitString": "Dispenser_Error"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Dispenser",
+    "Area": "Dispenser",
+    "Message": "Dispenser_Ready",
+    "AreaNumber": "Sense_And_Dispense_Dispenser",
+    "MessageNumber": 3,
+    "MessageBitString": "Dispenser_Ready"
+  },
+  {
+    "Expression": "Sense_And_Dispense_Dispenser",
+    "Area": "Dispenser",
+    "Message": "Dispenser_Loading",
+    "AreaNumber": "Sense_And_Dispense_Dispenser",
+    "MessageNumber": 4,
+    "MessageBitString": "Dispenser_Loading"
+  },
+  {
+    "Expression": "Sense_And_Dispense_BarcodeReader",
+    "Area": "BarcodeReader",
+    "Message": "BarcodeReader_noAlarms",
+    "AreaNumber": "Sense_And_Dispense_BarcodeReader",
+    "MessageNumber": 1,
+    "MessageBitString": "BarcodeReader_noAlarms"
+  },
+  {
+    "Expression": "Sense_And_Dispense_BarcodeReader",
+    "Area": "BarcodeReader",
+    "Message": "BarcodeReader_ReadSuccess",
+    "AreaNumber": "Sense_And_Dispense_BarcodeReader",
+    "MessageNumber": 2,
+    "MessageBitString": "BarcodeReader_ReadSuccess"
+  },
+  {
+    "Expression": "Sense_And_Dispense_BarcodeReader",
+    "Area": "BarcodeReader",
+    "Message": "BarcodeReader_NoRead",
+    "AreaNumber": "Sense_And_Dispense_BarcodeReader",
+    "MessageNumber": 3,
+    "MessageBitString": "BarcodeReader_NoRead"
+  },
+  {
+    "Expression": "Sense_And_Dispense_BarcodeReader",
+    "Area": "BarcodeReader",
+    "Message": "BarcodeReader_Offline",
+    "AreaNumber": "Sense_And_Dispense_BarcodeReader",
+    "MessageNumber": 4,
+    "MessageBitString": "BarcodeReader_Offline"
+  },
+  {
+    "Expression": "Sense_And_Dispense_General",
+    "Area": "General",
+    "Message": "GeneralAlarms_NoAlarms",
+    "AreaNumber": "Sense_And_Dispense_General",
+    "MessageNumber": 1,
+    "MessageBitString": "GeneralAlarms_NoAlarms"
+  },
+  {
+    "Expression": "Sense_And_Dispense_General",
+    "Area": "General",
+    "Message": "GeneralAlarms_Startup",
+    "AreaNumber": "Sense_And_Dispense_General",
+    "MessageNumber": 2,
+    "MessageBitString": "GeneralAlarms_Startup"
+  },
+  {
+    "Expression": "Sense_And_Dispense_General",
+    "Area": "General",
+    "Message": "GeneralAlarms_EmergencyStop",
+    "AreaNumber": "Sense_And_Dispense_General",
+    "MessageNumber": 3,
+    "MessageBitString": "GeneralAlarms_EmergencyStop"
+  },
+  {
+    "Expression": "Sense_And_Dispense_General",
+    "Area": "General",
+    "Message": "GeneralAlarms_OpenDoor",
+    "AreaNumber": "Sense_And_Dispense_General",
+    "MessageNumber": 4,
+    "MessageBitString": "GeneralAlarms_OpenDoor"
+  },
+  {
+    "Expression": "Sense_And_Dispense_General",
+    "Area": "General",
+    "Message": "GeneralAlarms_PurgeCycle",
+    "AreaNumber": "Sense_And_Dispense_General",
+    "MessageNumber": 5,
+    "MessageBitString": "GeneralAlarms_PurgeCycle"
+  },
+  {
+    "Expression": "Sense_And_Dispense_General",
+    "Area": "General",
+    "Message": "GeneralAlarms_Shutdown",
+    "AreaNumber": "Sense_And_Dispense_General",
+    "MessageNumber": 6,
+    "MessageBitString": "GeneralAlarms_Shutdown"
+  }
+]

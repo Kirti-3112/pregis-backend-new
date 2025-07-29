@@ -1,0 +1,24 @@
+[
+    {
+        "email": "admin@pregis.com",
+        "password": "pregis@123",
+        "role": "user",
+        "roles": "65fbe04df731bd4b9af1df61",
+        "policies": [],
+        "machineGroups": [],
+        "isEmailVerified": false,
+        "isActive": true,
+        "isDeleted": false,
+        "preferences": {
+            "dateAndTime": {
+                "dateFormat": "MM/DD/YYYY",
+                "timeFormat": "24 Hours",
+                "timeZone": "(UTC-06:00) Central Time (US & Canada)"
+            },
+            "authSession": {
+                "accessTokenTTL": 240
+            }
+        },
+        "displayName": "admin"
+    }
+]
