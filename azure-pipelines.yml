@@ -10,7 +10,7 @@ variables:
   imageRepository: 'pregis-backend-new'
 
   # Azure App Service details
-  webAppName: 'pregisReporting'
+  webAppName: 'pregis-backend-new'
   resourceGroupName: 'pregis_rg'
   tag: '$(Build.BuildId)'
 
